@@ -1,6 +1,6 @@
 # Cognifyi 👋
 
-🧠 **Founder @ SuperAIHuman Labs** | 🤖 **Human-AI Fusion Builder**
+🧠 **[SuperAIHuman Labs](https://superaihuman.ai)** | 🤖 **Human-AI Fusion Builder** | 🤖 **AI-native Builder**
 
 > Building the cognitive infrastructure for human-AI fusion. From collaboration to evolution.
 
@@ -69,13 +69,12 @@ SuperAIHuman Labs
 ## 🌱 What I'm Building
 
 - **Pazity Neural Brain** — A knowledge engine that truly understands, not just retrieves
-- **EvoCrawl** — Intelligent information ingestion and purificatio
 
 ---
 
 ## 📫 Connect
 
-- 🐦 **Twitter/X**: [@cognifyi](https://x.com/cognifyi)
+- 🐦 **Twitter/X**: [@CognifyI](https://x.com/CognifyINT)
 - 📧 **Email**: [hello@superaihuman.ai](mailto:hello@superaihuman.ai)
 - 🌐 **Website**: [superaihuman.ai](https://superaihuman.ai)
 

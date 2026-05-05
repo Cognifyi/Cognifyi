@@ -24,23 +24,23 @@ This isn't about replacing humans. It's about **releasing the boundaries of huma
 ## The Ecosystem
 
 ```
-┌──────────────────────────────────────────────────────────────────┐
-│              SuperAIHuman (Evolutionary State)                   │  ← Cognitive evolution
-│          Enhanced Understanding · Enhanced Reasoning             |
-|          Enhanced Decision Making · Enhanced Collaboration       │
-├──────────────────────────────────────────────────────────────────┤
-│                   Augments (Application Layer)                   │  ← Domain enhancements
-│    Research · Code · Security · Meeting · Writer · Analyst       │
-├──────────────────────────────────────────────────────────────────┤
-│             Nexus OS (Connection/Protocol Layer)                 │  ← System integration
-│           Slack · Nexus Bar · Spaces · Connectors                │
-├──────────────────────────────────────────────────────────────────┤
-│           The Pazity Neural Brain (Core Intelligence Engine)     │  ← Living knowledge network
-│    EvoCrawl → Knowledge Graph → Omni → Search → Reasoning        │
-├──────────────────────────────────────────────────────────────────┤
-│   Cognitive Infrastructure OS (Execution & State Infrastructure) │  ← Infrastructure foundation
-│  Sandbox Engine · State Fabric · Agent Runtime · Control Plane   │
-└──────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────┐
+│                SuperAIHuman (Evolutionary State)                     │ 
+│         Autonomous Learning · Synergetic Reasoning · Meta-Decision   │ 
+├──────────┬───────────────────────────────────────────────────────────┤
+│          │             Augments (Intelligence Services)              │ 
+│          │  Research · Code · Security · Meeting · Writer · Analyst  │ 
+│          ├───────────────────────────────────────────────────────────┤
+│ Security │               Nexus OS (Unified Interface)                │ 
+│    &     │      Omni-Connectors · Neural Bar · Workspace Bridge       │ 
+│ Ethics   ├───────────────────────────────────────────────────────────┤ ▲
+│ Pillar   │        The Pazity Neural Brain (Core Engine)              │ │ 
+│          │   EvoCrawl ⇄ Knowledge Graph ⇄ Omni-Reasoning ⇄ Search    │ │ Feedback
+│ (Trust   ├───────────────────────────────────────────────────────────┤ │ Loop
+│ Layer)   │        Cognitive Infrastructure OS (The Fabric)           │ │ 
+│          │   State Fabric · Agent Runtime · Sandbox · Control Plane  │ │ 
+└──────────┴───────────────────────────────────────────────────────────┘ ▽
+    └─────────────────────── Data & Intelligence Flow ────────────────────┘
 ```
 
 ---

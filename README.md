@@ -78,7 +78,7 @@ This isn't about replacing humans. It's about **releasing the boundaries of huma
 
 ## 📫 Connect
 
-- 🐦 **Twitter/X**: [@CognifyI](https://x.com/CognifyINT)
+- 🐦 **Twitter/X**: [@Cognifyi](https://x.com/CognifyINT)
 - 📧 **Email**: [hello@superaihuman.ai](mailto:hello@superaihuman.ai)
 - 🌐 **Website**: [superaihuman.ai](https://superaihuman.ai)
 

@@ -25,20 +25,21 @@ This isn't about replacing humans. It's about **releasing the boundaries of huma
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
-│                    SuperAIHuman（认知进化状态）                    │
-│         更强理解 · 更强推理 · 更强决策 · 更强协作                  │
+│              SuperAIHuman (Evolutionary State)                   │  ← Cognitive evolution
+│          Enhanced Understanding · Enhanced Reasoning             |
+|          Enhanced Decision Making · Enhanced Collaboration       │
 ├──────────────────────────────────────────────────────────────────┤
-│                   Augments（应用层生态）                           │
+│                   Augments (Application Layer)                   │  ← Domain enhancements
 │    Research · Code · Security · Meeting · Writer · Analyst       │
 ├──────────────────────────────────────────────────────────────────┤
-│                   Nexus OS（连接层/协议层）                        │
-│         Slack入口 · Nexus Bar · Spaces · Connectors              │
+│             Nexus OS (Connection/Protocol Layer)                 │  ← System integration
+│           Slack · Nexus Bar · Spaces · Connectors                │
 ├──────────────────────────────────────────────────────────────────┤
-│            The Pazity Neural Brain（核心智能引擎）                 │
-│    EvoCrawl → Knowledge Graph → Omni → Search → Reasoning       │
+│           The Pazity Neural Brain (Core Intelligence Engine)     │  ← Living knowledge network
+│    EvoCrawl → Knowledge Graph → Omni → Search → Reasoning        │
 ├──────────────────────────────────────────────────────────────────┤
-│         Cognitive Infrastructure OS（执行与状态基础设施）           │
-│  Sandbox Engine · State Fabric · Agent Runtime · Control Plane  │
+│   Cognitive Infrastructure OS (Execution & State Infrastructure) │  ← Infrastructure foundation
+│  Sandbox Engine · State Fabric · Agent Runtime · Control Plane   │
 └──────────────────────────────────────────────────────────────────┘
 ```
 

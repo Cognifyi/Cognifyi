@@ -24,17 +24,22 @@ This isn't about replacing humans. It's about **releasing the boundaries of huma
 ## The Ecosystem
 
 ```
-SuperAIHuman Labs
-   ├── Ecosystem Vision: Human–AI Fusion (Long-term)
-   │
-   ├── Nexus OS  ← Neural layer connecting the ecosystem
-   │        └── (Phase 1: Pazity Platform)
-   │
-   ├── Pazity Neural Brain  ← Intelligent core
-   │        ├── Pazity Search (Answers & Insight)
-   │        └── Pazity Coding (Vibecoding Platform)
-   │
-   └── EvoCrawl API  ← Data perception layer (Feeder Intelligence)
+┌──────────────────────────────────────────────────────────────────┐
+│                    SuperAIHuman（认知进化状态）                    │
+│         更强理解 · 更强推理 · 更强决策 · 更强协作                  │
+├──────────────────────────────────────────────────────────────────┤
+│                   Augments（应用层生态）                           │
+│    Research · Code · Security · Meeting · Writer · Analyst       │
+├──────────────────────────────────────────────────────────────────┤
+│                   Nexus OS（连接层/协议层）                        │
+│         Slack入口 · Nexus Bar · Spaces · Connectors              │
+├──────────────────────────────────────────────────────────────────┤
+│            The Pazity Neural Brain（核心智能引擎）                 │
+│    EvoCrawl → Knowledge Graph → Omni → Search → Reasoning       │
+├──────────────────────────────────────────────────────────────────┤
+│         Cognitive Infrastructure OS（执行与状态基础设施）           │
+│  Sandbox Engine · State Fabric · Agent Runtime · Control Plane  │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -54,7 +59,6 @@ SuperAIHuman Labs
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20with%20any-AI%20with%20any-yellow?style=for-the-badge&labelColor=orange&logo=bitrise" alt="Badge">
 </p>
 
 **AI & Tools**

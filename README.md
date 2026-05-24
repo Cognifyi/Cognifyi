@@ -10,7 +10,7 @@ I'm building **Pazity Neural Brain** — a living knowledge network that evolves
 
 ## Core Vision
 
-**SuperAIHuman** is not our company mission — it's the evolutionary state users achieve through our ecosystem.
+**SuperAIHuman** is not our labs mission — it's the evolutionary state users achieve through our ecosystem.
 
 When a developer deeply integrates with Pazity Neural Brain through Nexus OS, they're no longer just writing code — they become a **SuperAIHuman** capable of:
 - Real-time access to global knowledge

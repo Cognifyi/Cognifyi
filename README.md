@@ -1,6 +1,6 @@
 # Cognifyi 👋
 
-🧠 **[SuperAIHuman Labs](https://superaihuman.ai)** | 🤖 **Human-AI Fusion Builder** | 🤖 **AI-native Builder**
+🧠 **[SuperAIHuman Labs](https://superaihuman.ai)** | 🤖 **Human-AI Fusion Builder** | 🤖 **AI-infra Builder**
 
 > Building the cognitive infrastructure for human-AI fusion. From collaboration to evolution.
 

@@ -47,10 +47,6 @@ This isn't about replacing humans. It's about **releasing the boundaries of huma
 ## Current Projects
 
 - 🧠 **[Pazity Neural Brain](https://github.com/superaihuman/pazity-neural-brain)** — Living knowledge network with causal reasoning and continuous learning
-- 🔌 **[Nexus OS](https://github.com/superaihuman/nexus-os)** — Protocol layer for system integration and collaboration
-- 🌐 **[EvoCrawl](https://github.com/superaihuman/evocrawl)** — AI-powered web search, scrape, and interaction platform
-- � **[Pazity Search](https://github.com/superaihuman/pazity-search)** — Objectified global answer engine
-
 ---
 
 ## 🛠 Tech Stack
